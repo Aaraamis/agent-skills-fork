@@ -96,6 +96,7 @@ repositorio, como se usa y como modificarlo con criterio.
   - `docs/cursor-setup.md`
   - `docs/gemini-cli-setup.md`
   - `docs/opencode-setup.md`
+  - `docs/codex-setup.md`
   - `docs/windsurf-setup.md`
   - `docs/copilot-setup.md`
 - Entender que Claude Code usa el plugin, mientras otros agentes consumen los
@@ -193,4 +194,3 @@ node scripts/validate-skills.js
 8. `scripts/validate-skills.js`
 9. `.claude-plugin/plugin.json`
 10. `.github/workflows/test-plugin-install.yml`
-
