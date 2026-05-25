@@ -54,8 +54,8 @@ repositorio, como se usa y como modificarlo con criterio.
   6. `debugging-and-error-recovery`
   7. `code-review-and-quality`
   8. `shipping-and-launch`
-- Despues revisar los skills especializados: UI, API, seguridad, performance,
-  documentacion, migraciones, CI/CD y simplificacion.
+- Despues revisar los skills especializados: Lucia, UI, API, seguridad,
+  performance, documentacion, migraciones, CI/CD y simplificacion.
 
 ## 6. Comandos slash
 

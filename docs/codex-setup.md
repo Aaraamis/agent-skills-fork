@@ -86,6 +86,8 @@ Keep these easy to reference in most application projects:
 - `incremental-implementation` — build in small verifiable slices.
 - `test-driven-development` — prove behavior with tests.
 - `code-review-and-quality` — review before merge.
+- `lucia-assisted-development` — gather local context, QA, memory, and handoff
+  evidence when Lucia is available.
 
 ### Load on Demand
 
@@ -121,8 +123,8 @@ a time and synthesize the findings in the main session.
 
 ## Working with Lucia
 
-If Lucia is available locally, use it as evidence-gathering support while
-`agent-skills` defines the workflow:
+If Lucia is available locally, follow `lucia-assisted-development` to use it as
+evidence-gathering support while `agent-skills` defines the workflow:
 
 ```bash
 lucia session-start --dir . --latest 10
@@ -157,4 +159,3 @@ For a non-trivial feature in an application repo:
 4. Use personas for review perspectives, not for general implementation.
 5. Keep project-specific constraints in the target project's `AGENTS.md`; keep
    reusable workflows in this repo.
-
